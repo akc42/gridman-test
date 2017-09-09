@@ -1,0 +1,47 @@
+{
+  /**
+      @licence
+      Copyright (c) 2016 Alan Chandler, all rights reserved
+  
+      This file is part of PASv5, an implementation of the Patient Administration
+      System used to support Accuvision's Laser Eye Clinics.
+  
+      PASv5 is licenced to Accuvision (and its successors in interest) free of royality payments
+      and in perpetuity in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the
+      implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. Accuvision
+      may modify, or employ an outside party to modify, any of the software provided that
+      this modified software is only used as part of Accuvision's internal business processes.
+  
+      The software may be run on either Accuvision's own computers or on external computing
+      facilities provided by a third party, provided that the software remains soley for use
+      by Accuvision (or by potential or existing customers in interacting with Accuvision).
+  */
+  
+  "name": "Patient Administration System",
+  "short_name": "PAS",
+    "icons": [{
+      "src": "images/pas-icon-32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    }, {
+      "src": "images/pas-icon.svg",
+      "sizes": "128x128",
+      "type": "image/svg"
+    }, {
+      "src": "images/pas-icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }, {
+      "src": "images/pas-icon.svg",
+      "sizes": "192x192",
+      "type": "image/svg"
+    },{
+      "src": "images/pas-icon.svg",
+      "sizes": "384x384",
+      "type": "image/svg"
+    }],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fafafa",
+  "theme_color": "#ffc107"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "authors": [
+    "Alan Chandler"
+  ],
+  "version": "0.8",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer#^2.0.0",
+    "webcomponentsjs": "^1.0.6"
+  },
+  "resolutions": {
+    "polymer": "^2.0.0",
+    "webcomponentsjs": "^v1.0.0"
+  }
+}
